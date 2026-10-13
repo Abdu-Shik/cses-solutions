@@ -1,0 +1,14 @@
+# Compiled binaries have no extension, so ignore everything
+# and allow back only the files worth tracking.
+*
+!*/
+
+!.gitignore
+!*.cpp
+!*.h
+!*.hpp
+!*.sh
+!*.md
+!*.txt
+!.vscode/*.json
+!.vscode/*.code-snippets
