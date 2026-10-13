@@ -15,5 +15,5 @@ else
     echo "created: $file"
 fi
 
-# Line 10 is the blank line inside main().
-code -r -g "$file:10:5"
+# Line 11 is the blank line inside main().
+code -r -g "$file:11:5"
